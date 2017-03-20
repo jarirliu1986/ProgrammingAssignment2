@@ -3,6 +3,7 @@
 
 ## Write a short comment describing this function
 ## create the makeCashMatrix function, which can be used to get and modify the matrix and it's reverse
+##CREATED BY ZYL
 makeCacheMatrix <- function(x = matrix()) {
         inv <- NULL
         set <- function(y) {
